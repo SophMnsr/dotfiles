@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sophie.mansour@outlook.fr
+	name = Sophie Mansour
